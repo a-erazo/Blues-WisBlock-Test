@@ -8,7 +8,7 @@
 Adafruit_LPS22 g_lps22hb;
 Notecard notecard;
 
-#define PRODUCT_UID "com.rakwireless.external.alveiro.erazo:testnumber1"
+#define PRODUCT_UID ""
 
 float read_data();
 void sending(float data);
